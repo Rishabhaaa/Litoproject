@@ -1,0 +1,4 @@
+#Wed Oct 26 18:36:12 IST 2022
+base.0=/home/hp/Documents/Projecttt/Lito1/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
